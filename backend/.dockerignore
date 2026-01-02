@@ -1,0 +1,35 @@
+# 1. Ignore the Database (So you don't overwrite the cloud DB with your local test data)
+db.sqlite3
+
+# 2. Ignore Python cache files (Junk files)
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# 3. Ignore your local virtual environment
+.venv
+venv/
+env/
+
+# 4. Ignore Git history
+.git
+.gitignore
+
+# 5. Ignore Environment Variables (Security risk if included)
+.env
+
+# 6. Ignore IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+
+# 7. Ignore Test and Coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 8. Ignore User Media (Don't include local uploads) and Logs
+media/
+*.log
