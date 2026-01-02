@@ -132,7 +132,7 @@
         methods: {
             // 1. Fetch Data from API
             async fetchData() {
-                let url = 'http://127.0.0.1:8000/api/items/?';
+                let url = 'https://real-time-dashboard-t5gv.onrender.com/api/items/?';
 
                 if (this.searchQuery.trim() !== '') {
                     url += `search=${this.searchQuery}&`;
