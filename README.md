@@ -49,7 +49,7 @@ A full-stack web application featuring an Admin Portal for data management and a
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/tan-11/real-time_dashboard.git]
+git clone [https://github.com/tan-11/real-time_dashboard.git](https://github.com/tan-11/real-time_dashboard.git)
 cd real-time_dashboard
 ```
 
