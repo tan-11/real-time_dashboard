@@ -14,6 +14,5 @@ COPY . /app/
 # 5. Open the door (Port)
 EXPOSE 8000
 
-# 6. The Start Command (Run migrations -> Start Server)
-# We use this chain so the database sets itself up automatically on the cloud.
-CMD sh -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+# Update the CMD line to include the new script:
+CMD sh -c "python manage.py migrate && python create_superuser.py && python manage.py runserver 0.0.0.0:8000"
