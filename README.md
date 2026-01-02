@@ -7,7 +7,7 @@ A full-stack web application featuring an Admin Portal for data management and a
 - **User Portal (View Only):** [https://tan-11.github.io/real-time_dashboard/frontend/user.html](https://tan-11.github.io/real-time_dashboard/frontend/user.html)
 - **Backend API:** [https://real-time-dashboard-t5gv.onrender.com/api/items/](https://real-time-dashboard-t5gv.onrender.com/api/items/)
 
-> **Test Credentials:**
+> **Test admin Credentials:**
 > - **Username:** `admin`
 > - **Password:** `admin123`
 
