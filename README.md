@@ -1,6 +1,6 @@
 # Real-Time Inventory Dashboard
 
-A full-stack web application featuring an Admin Portal for data management and a User Portal for real-time data visualization. [cite_start]Built with Django (Backend) and Vue.js (Frontend)[cite: 8, 36, 37].
+A full-stack web application featuring an Admin Portal for data management and a User Portal for real-time data visualization. Built with Django (Backend) and Vue.js (Frontend).
 
 ## 🚀 Live Demo URLs
 - **Admin Portal (Login):** [https://tan-11.github.io/real-time_dashboard/frontend/login.html](https://tan-11.github.io/real-time_dashboard/frontend/login.html)
